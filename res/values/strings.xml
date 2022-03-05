@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Zakupy</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="listaZapupow">Lista zakupów</string>
+    <string name="twoiUzytkownicy">Twoi użytkownicy</string>
+    <string name="paragony">Paragony</string>
+    <string name="zakoncz">Zakończ</string>
+    <string name="title_activity_lista_zakupow">ListaZakupow</string>
+    <string name="ok">Ok</string>
+    <string name="wyczyscListe">Wyczyść listę</string>
+    <string name="title_activity_edytuj_produkt">EdytujProdukt</string>
+    <string name="zapisz">Zapisz</string>
+    <string name="Opcje">Opcje</string>
+    <string name="title_activity_twoi_uzytkownicy">TwoiUzytkownicy</string>
+    <string name="title_activity_galeria">Galeria</string>
+    <string name="title_activity_paragony">Paragony</string>
+    <string name="zdjecie">Zrób zdjęcie paragonu</string>
+    <string name="title_activity_last_screen">LastScreen</string>
+    <string name="title_activity_pic_select">PicSelectActivity</string>
+    <string name="picture">Picture</string>
+    <string name="select_intro">Long-press a thumbnail to add an image</string>
+    <string name="show_intro">Press a thumbnail to display at larger size</string>
+    <string name="title_activity_gallery_page">GalleryPage</string>
+    <string name="title_activity_register">Formularz dostępowy</string>
+    <string name="odswiezListe">Odśwież listę</string>
+
+</resources>

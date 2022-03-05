@@ -1,0 +1,19 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.damianchodorek.kurs.android8.MainActivity" >
+
+    <item
+        android:id="@+id/edytujProdukt"
+        android:icon="@android:drawable/btn_radio"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Edytuj"/>
+    
+     <item
+        android:id="@+id/usunProdukt"
+        android:icon="@android:drawable/btn_radio"
+        android:orderInCategory="100"
+        android:showAsAction="always"
+        android:title="Usuń"/>
+
+</menu>
